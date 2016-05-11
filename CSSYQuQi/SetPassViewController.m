@@ -8,7 +8,7 @@
 
 #import "SetPassViewController.h"
 #import "DJRegisterView.h"
-
+#import "PersonController.h"
 @interface SetPassViewController ()
 
 @end
