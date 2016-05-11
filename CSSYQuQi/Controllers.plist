@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>新车</string>
+		<key>iconName</key>
+		<string>tabbar_newCar</string>
+        <key>iconClickName</key>
+        <string>tabbar_newCar_click</string>
+		<key>className</key>
+		<string>NewCarController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>找车</string>
+		<key>iconName</key>
+		<string>tabbar_chooseCar</string>
+        <key>iconClickName</key>
+        <string>tabbar_chooseCar_click</string>
+		<key>className</key>
+		<string>ChooseCarViewController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>社区</string>
+		<key>iconName</key>
+		<string>tabbar_community</string>
+        <key>iconClickName</key>
+        <string>tabbar_community_click</string>
+		<key>className</key>
+		<string>CommunityController</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>我的</string>
+		<key>iconName</key>
+		<string>tabbar_person</string>
+        <key>iconClickName</key>
+        <string>tabbar_person_click</string>
+		<key>className</key>
+		<string>PersonController</string>
+	</dict>
+</array>
+</plist>
